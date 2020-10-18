@@ -1,5 +1,5 @@
 # Heroku Action
-A GitHub Action for deploying on Heroku
+A GitHub Action for deploying on Heroku. Based on [heroku-deploy](https://github.com/AkhileshNS/heroku-deploy)
 
 ## Basic Example
 In this example you must have a Procfile in the project directory and create the following file (.github/workflows/main.yml)
