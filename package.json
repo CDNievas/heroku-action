@@ -1,0 +1,22 @@
+{
+  "name": "heroku-action",
+  "version": "1.0.0",
+  "description": "Github Action for deploying in Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CDNievas/heroku-action.git"
+  },
+  "author": "CDNievas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CDNievas/heroku-action/issues"
+  },
+  "homepage": "https://github.com/CDNievas/heroku-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6"
+  }
+}

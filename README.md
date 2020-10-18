@@ -1,2 +1,3 @@
-# heroku-action
-GitHub Action for Heroku
+# Heroku Action
+A GitHub Action for deploying on Heroku
+
